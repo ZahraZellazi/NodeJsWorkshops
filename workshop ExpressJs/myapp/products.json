@@ -1,0 +1,21 @@
+[
+    {
+      "id": "LENOVOX230",
+      "name": "Lenovo X230",
+      "price": 1000,
+      "stock": 150
+    },
+    {
+      "id": "DELLXPS15",
+      "name": "Dell XPS 15",
+      "price": 1500,
+      "stock": 100
+    },
+    {
+      "id": "MACBOOKPRO",
+      "name": "MacBook Pro",
+      "price": 2000,
+      "stock": 200
+    }
+  ]
+  
